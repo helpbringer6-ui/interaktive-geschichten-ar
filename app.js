@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Platzhalter für AR-Funktionalität
-    console.log('Interaktive Geschichten AR gestartet!');
+    // Placeholder for AR functionality
+    console.log('Interactive Stories AR has been initiated!');
 });
